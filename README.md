@@ -30,8 +30,12 @@ Smart HOJ Vue 连接到 [Deeplearning](https://deeplearning.org.cn)。
 - 20250821 Better HOJ：支持强行刷新讨论，自定义讨论信息（部分）
 - 20250822 修复评论头像显示，Better HOJ：增加讨论覆写权限
 - 20250831 修复表格条纹bug，修复页数计数错误。更全面的覆盖了液态玻璃。去掉了忘记去掉只防人不防机器的验证码。Better HOJ：团队题目支持修改并复制，自定义作者（甩锅），推题。代码区域支持更多大小。
+- 20250906 周更新，修复了用户设置页面，头像上传，团队样例上传。支持 CF 题目 `Wrong Answer on test` 显示。Better HOJ：支持团队样例下载，设置特别选项，允许团队简称留空。
+- 20250913 周更新，修复了比赛评测问题，支持了更新 cfSession。Better HOJ：支持了高级评测状态页。
 
 ## 鸣谢
 @张书瑞：Smart HOJ 作者。
+
 [@罗及恩](https://github.com/gene-2012)：技术支持
+
 [@白镕鑫](https://github.com/BaiRX-max)：Better HOJ 计划提出者
